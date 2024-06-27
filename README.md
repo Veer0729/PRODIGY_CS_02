@@ -1,4 +1,4 @@
-Password Complexity Checker
+# Password Complexity Checker
 
 This code checks the strength of a user-inputted password based on its length and character types. It checks for:
 
